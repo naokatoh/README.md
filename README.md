@@ -1,7 +1,7 @@
 # README.md
 <h1 align="center">Hi 👋, I'm Nao ๑(◕‿◕)๑</h1>
-<h3 align="center">A 📰journalist with 10+ years in 🇯🇵 studying data journalism in 🗽</h3>
-
+<h3 align="center">A 📰journalist with 10+ years in 🎌 studying data journalism in 🗽</h3>
+<h3 align="center">A 📰journalist with 10+ years in 🎌 studying data journalism in 🗽</h3>
 <p align="left"> <a href="https://twitter.com/hidaka_nao" target="blank"><img src="https://img.shields.io/twitter/follow/hidaka_nao?logo=twitter&style=for-the-badge" alt="hidaka_nao" /></a> </p>
 
 - 🌱 I’m currently learning **python, mapbox, SQL etc...**
