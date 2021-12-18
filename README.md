@@ -6,6 +6,8 @@
 
 - 🖊️ My bylines appear regularly in **[the Asahi Shimbun Newspaperthe (朝日新聞)](https://www.asahi.com/)**, sometimes in **[withnews](https://withnews.jp/)**, and **[Mirror, Mirror (かがみよかがみ）](https://mirror.asahi.com/article/13752872)**. My latest articles are *[here](https://digital.asahi.com/article_search/s_list3.html?keyword=%C6%FC%B9%E2%C6%E0%BD%EF&s_title=%C6%FC%B9%E2%C6%E0%BD%EF%B5%AD%BC%D4%A4%CE%B5%AD%BB%F6%B0%EC%CD%F7&rel=1)*.
 
+- 👩‍💼🎤 I can write, edit, take photos & videos 📖📷
+
 - 🌱 I’m currently learning **python, mapbox, SQL etc...**
 
 - 📫 How to reach me **nk2970@columbia.edu**
