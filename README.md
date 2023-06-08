@@ -11,7 +11,7 @@
 
 - 🌱 I studied data journalism at Columbia Journalism School (Ms'22) and now I'm playing with **python, mapbox, SQL etc...**
 
-- 📫 How to reach me **nk2970@columbia.edu**
+- 📫 How to reach me: **nk2970@columbia.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
