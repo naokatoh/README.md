@@ -9,7 +9,7 @@
 
 - 👩‍💼🎤 I can write, edit, take photos & videos 📖📷
 
-- 🌱 I’m currently learning **python, mapbox, SQL etc...**
+- 🌱 I studied data journalism at Columbia Journalism School (Ms'22) and now I'm playing with **python, mapbox, SQL etc...**
 
 - 📫 How to reach me **nk2970@columbia.edu**
 
