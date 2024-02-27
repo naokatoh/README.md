@@ -1,17 +1,17 @@
 # README.md
-<h1 align="center">Hi 👋, I'm Nao Hidaka Kato๑(◕‿◕)๑</h1>
-<h3 align="center">A 📰journalist with 10+ years</h3>
+<h1 align="center">Hi 👋, I'm Nao Hidaka Kato</h1>
+<h3 align="center">A 📰journalist with 15+ years</h3>
 
 
 <p align="center"> <a href="https://twitter.com/hidaka_nao" target="blank"><img src="https://img.shields.io/twitter/follow/hidaka_nao?logo=twitter&style=for-the-badge" alt="hidaka_nao" /></a> </p>
 
 - 🖊️ My bylines appear regularly in **[the Asahi Shimbun Newspaper (朝日新聞)](https://www.asahi.com/)**, **[withnews](https://withnews.jp/)**, and **[Mirror, Mirror (かがみよかがみ）](https://mirror.asahi.com/article/13752872)**. My latest articles are *[here](https://digital.asahi.com/article_search/s_list3.html?keyword=%C6%FC%B9%E2%C6%E0%BD%EF&s_title=%C6%FC%B9%E2%C6%E0%BD%EF%B5%AD%BC%D4%A4%CE%B5%AD%BB%F6%B0%EC%CD%F7&rel=1)*.
 
-- 👩‍💼🎤 I can write, edit, take photos & videos 📖📷
+- 👩‍💼🎤 I can write, edit, and take photos & videos 📖📷
 
-- 🌱 I studied data journalism at Columbia Journalism School (Ms'22) and now I'm playing with **python, mapbox, SQL etc...**
+- 🌱 I studied data journalism at Columbia Journalism School (MS'22) and now I'm playing with **python, mapbox, SQL etc...**
 
-- 📫 How to reach me: **nk2970@columbia.edu**
+- 📫 How to reach me: **nk2970@columbia.edu** or **hidaka-n1@asahi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
